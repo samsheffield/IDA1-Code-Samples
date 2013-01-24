@@ -1,0 +1,2 @@
+# About this repository
+This repository contains samples of Processing code created for student use in the course, Interaction Design and Art 1, which took place in 2012 at the Maryland Institute College of Art. 
